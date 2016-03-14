@@ -1,0 +1,64 @@
+{
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "15%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0%"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 6,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_skin_": "s88909189e1541b3b49346dcef162076",
+    "_top_": {
+        "type": "string",
+        "value": "0%"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "allboxes": [],
+    "autogrowmode": 0,
+    "canUpdateUI": true,
+    "children": [
+        "lblHdrTitle",
+        "lblHdrDuration",
+        "lblHdrDate",
+        "lblHdrDesc",
+        "lblHdrVenue",
+        "lblHdrSpeaker",
+        "lblHdrResource",
+        "CopylblHdrResource0d65d0222df2f43"
+    ],
+    "clipbounds": true,
+    "containerweight": 100,
+    "enablescrolling": true,
+    "id": "flexHeader",
+    "info": null,
+    "isvisible": true,
+    "kuid": "113ac00f24f041c78c2f8f4fe0725492",
+    "layouttype": 2,
+    "name": "kony.ui.FlexContainer",
+    "parent": "scrollFlex",
+    "pf": "formViewSession",
+    "snapgridsize": 10,
+    "snaptogrid": true,
+    "wType": "FlexContainer",
+    "widgetalignment": 1,
+    "zindex": 1
+}

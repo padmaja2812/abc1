@@ -1,0 +1,32 @@
+{
+    "AS_Segment_9f6dfcc6b39346639b9f720011a55c97": {
+        "id": "AS_Segment_9f6dfcc6b39346639b9f720011a55c97",
+        "type": "ACTION_SEQUENCE",
+        "name": "actionFloorMapsrowclick",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "number",
+            "name": "sectionNumber"
+        }, {
+            "datatype": "number",
+            "name": "rowNumber"
+        }],
+        "contextObj": {
+            "name": "frmFloorMaps",
+            "type": "forms",
+            "platform": "",
+            "KUID": "5cfcf0a369d840d5821bc10768cf69c9"
+        },
+        "actions": [{
+            "id": "INVOKE_FUNCTION___ad1963de4afb4b2b8e79bd5f2e41e39d",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "updateVenuehallHelper",
+            "display": "updateVenuehallHelper",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "AS_Button_93d3c214f5134f09a5eb6d4bcae9b1a4": {
+        "id": "AS_Button_93d3c214f5134f09a5eb6d4bcae9b1a4",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmAddNewFieldsSpeaker",
+            "type": "forms",
+            "platform": "",
+            "KUID": "f319e49fab004fdea7fdb0d653d49fb1"
+        },
+        "actions": [{
+            "id": "ADD_SNIPPET__409ffc8a871545e9be79e81141a80bb2",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "getSpeakerAddress();",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "AS_Button_5c0b74f1c788470086940ec4d84a80bc": {
+        "id": "AS_Button_5c0b74f1c788470086940ec4d84a80bc",
+        "type": "ACTION_SEQUENCE",
+        "name": "actionAddAddress",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmAddress",
+            "type": "forms",
+            "platform": "",
+            "KUID": "473c5154cbd4457da79d2ded5a0ea0a8"
+        },
+        "actions": [{
+            "id": "ADD_SNIPPET__31b7568271ca43b083cce3166e00ab6a",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "frmAddUpdateAddress.destroy();\nfrmAddUpdateAddress.show();",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

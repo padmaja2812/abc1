@@ -1,0 +1,32 @@
+{
+    "AS_Segment_b40faade5d8c4f86ab8c15fcaee938cf": {
+        "id": "AS_Segment_b40faade5d8c4f86ab8c15fcaee938cf",
+        "type": "ACTION_SEQUENCE",
+        "name": "actionAttractionsRowClick",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "number",
+            "name": "sectionNumber"
+        }, {
+            "datatype": "number",
+            "name": "rowNumber"
+        }],
+        "contextObj": {
+            "name": "frmAttractions",
+            "type": "forms",
+            "platform": "",
+            "KUID": "26e74732e6154eb9b8101af6e89c85fe"
+        },
+        "actions": [{
+            "id": "INVOKE_FUNCTION___9d02952c62294bfb8fdb9e42faf949a6",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "updateAttractionsHelper",
+            "display": "updateAttractionsHelper",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

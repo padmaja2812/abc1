@@ -1,0 +1,26 @@
+{
+    "AS_Button_fa0fb16296f34cceac4f62536b19a389": {
+        "id": "AS_Button_fa0fb16296f34cceac4f62536b19a389",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "collection",
+            "name": "context"
+        }],
+        "contextObj": {
+            "name": "selectTemp",
+            "type": "templates",
+            "platform": "",
+            "KUID": "ffa11f8f0d59488da70e810ef42615f0"
+        },
+        "actions": [{
+            "id": "ADD_SNIPPET__5c69afd9a4464a34b55c4a47fc19681e",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "flexSelect.btnCheck.setVisibility(false);\nflexSelect.btnUnCheck.setVisibility(true);",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

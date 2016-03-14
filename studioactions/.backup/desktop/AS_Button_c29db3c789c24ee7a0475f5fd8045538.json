@@ -1,0 +1,16 @@
+{
+    "AS_Button_c29db3c789c24ee7a0475f5fd8045538": {
+        "id": "AS_Button_c29db3c789c24ee7a0475f5fd8045538",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "actions": [{
+            "id": "ADD_SNIPPET_ide_onClick_db5113fd3cd14a0488d7df9af8cbe101",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "frmVenue.show();",
+            "callbackType": null
+        }]
+    }
+}

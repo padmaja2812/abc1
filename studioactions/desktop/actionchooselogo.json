@@ -1,0 +1,24 @@
+{
+    "AS_Button_8cec4318b48c4f1f9f2838467c297dba": {
+        "id": "AS_Button_8cec4318b48c4f1f9f2838467c297dba",
+        "type": "ACTION_SEQUENCE",
+        "name": "actionchooselogo",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmUpdateAndAddEvent",
+            "type": "forms",
+            "platform": "",
+            "KUID": "c67475b8005148829e5c9aa2c135fbb5"
+        },
+        "actions": [{
+            "id": "ADD_SNIPPET__7a0bef594ca7438aba702aaaeb1810a9",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "ClickBrowse();",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

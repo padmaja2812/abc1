@@ -1,0 +1,26 @@
+{
+    "AS_Form_0a7da161bf7144979dd7ff13b19c1c00": {
+        "id": "AS_Form_0a7da161bf7144979dd7ff13b19c1c00",
+        "type": "ACTION_SEQUENCE",
+        "name": "actionPresShowFileUpload",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmFileUpload",
+            "type": "forms",
+            "platform": "",
+            "KUID": "8e9a52b182e74ae080c03d788514d2e9"
+        },
+        "actions": [{
+            "id": "INVOKE_FUNCTION___a0fbc1ba46864c42942d614532bb23aa",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "getUpload",
+            "display": "getUpload",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

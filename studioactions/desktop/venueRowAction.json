@@ -1,0 +1,32 @@
+{
+    "AS_Segment_c2c53600554542ea8046dc53247bed23": {
+        "id": "AS_Segment_c2c53600554542ea8046dc53247bed23",
+        "type": "ACTION_SEQUENCE",
+        "name": "venueRowAction",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "number",
+            "name": "sectionNumber"
+        }, {
+            "datatype": "number",
+            "name": "rowNumber"
+        }],
+        "contextObj": {
+            "name": "frmVenue",
+            "type": "forms",
+            "platform": "",
+            "KUID": "92c65f70fa9e4c568976af253facded0"
+        },
+        "actions": [{
+            "id": "INVOKE_FUNCTION___b0c02f3336744dfc8b992cc859a75906",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "updateVenueHelper",
+            "display": "updateVenueHelper",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

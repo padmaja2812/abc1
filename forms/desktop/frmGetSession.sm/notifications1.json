@@ -1,0 +1,77 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizCheckBox",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "40dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "40%"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s34bd00d24c145298232cb852a0e5d63",
+    "_top_": {
+        "type": "string",
+        "value": "132%"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "19.20%"
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "id": "notifications1",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "viewType": 4
+        }
+    },
+    "iphone": {
+        "psp": {
+            "viewType": 4
+        }
+    },
+    "isvisible": true,
+    "itemorientation": "vertical",
+    "kuid": "03aedc57ddfb4e689ebb6df7e6584f91",
+    "masterdata": [
+        [
+            "1",
+            "Send"
+        ]
+    ],
+    "name": "kony.ui.CheckBoxGroup",
+    "orientation": "vertical",
+    "parent": "frmGetSession",
+    "pf": "frmGetSession",
+    "selectedkey": null,
+    "selectedkeys": [
+        "1"
+    ],
+    "selectedkeyvalue": null,
+    "selectedkeyvalues": [
+        [
+            "1",
+            "Send"
+        ]
+    ],
+    "size": 18,
+    "viewtype": 0,
+    "wType": "CheckBoxGroup",
+    "widgetalignment": 5,
+    "zindex": 2
+}

@@ -1,0 +1,26 @@
+{
+    "AS_Button_cb68e787084540bb93315f7fcb5e6e42": {
+        "id": "AS_Button_cb68e787084540bb93315f7fcb5e6e42",
+        "type": "ACTION_SEQUENCE",
+        "name": "actionAddUpload",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmAddUpdateUpload",
+            "type": "forms",
+            "platform": "",
+            "KUID": "361dafc6bc8f4d9abf57aa66a58d8541"
+        },
+        "actions": [{
+            "id": "INVOKE_FUNCTION___773835ca9872487a8149ccb5dbaea2a4",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "addUpload",
+            "display": "addUpload",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

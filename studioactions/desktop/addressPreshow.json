@@ -1,0 +1,26 @@
+{
+    "AS_Form_3010674767474d5ebd4905ee9c562aec": {
+        "id": "AS_Form_3010674767474d5ebd4905ee9c562aec",
+        "type": "ACTION_SEQUENCE",
+        "name": "addressPreshow",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmAddress",
+            "type": "forms",
+            "platform": "",
+            "KUID": "473c5154cbd4457da79d2ded5a0ea0a8"
+        },
+        "actions": [{
+            "id": "INVOKE_FUNCTION___7100586e399348ecbaeac85065e913e5",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "getAddress",
+            "display": "getAddress",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

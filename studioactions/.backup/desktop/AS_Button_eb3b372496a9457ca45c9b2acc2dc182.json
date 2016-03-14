@@ -1,0 +1,25 @@
+{
+    "AS_Button_eb3b372496a9457ca45c9b2acc2dc182": {
+        "id": "AS_Button_eb3b372496a9457ca45c9b2acc2dc182",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmSurevyQuestions",
+            "type": "forms",
+            "platform": "",
+            "KUID": "b70691a6ebbb413eb288339b6c71e657"
+        },
+        "actions": [{
+            "id": "INVOKE_FUNCTION___c91ca444b4c24b1481f861b3f3f40587",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "addQuestion",
+            "display": "addQuestion",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

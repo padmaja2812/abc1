@@ -1,0 +1,28 @@
+{
+    "AS_Button_cedf75fa297d4635ba84de6d2a578d54": {
+        "id": "AS_Button_cedf75fa297d4635ba84de6d2a578d54",
+        "type": "ACTION_SEQUENCE",
+        "name": "addNewFloorMap",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmFloorMaps",
+            "type": "forms",
+            "platform": "",
+            "KUID": "5cfcf0a369d840d5821bc10768cf69c9"
+        },
+        "actions": [{
+            "id": "NAVIGATE_TO_FORM___d7c0eec89f31453690f7799e95568fee",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "frmAddUpdateFloorPlans",
+            "formKUID": "e39f117be68645daa8431f6ab36fd8d3",
+            "mappings": {},
+            "mappingsOrder": [],
+            "parentId": "",
+            "callbackType": null,
+            "enableMappingEditor": true
+        }]
+    }
+}

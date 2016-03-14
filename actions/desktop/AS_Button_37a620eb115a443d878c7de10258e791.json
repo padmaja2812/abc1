@@ -1,0 +1,25 @@
+{
+    "AS_Button_37a620eb115a443d878c7de10258e791": {
+        "id": "AS_Button_37a620eb115a443d878c7de10258e791",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "sendCustomNotifications",
+            "type": "forms",
+            "platform": "",
+            "KUID": "11ce814e76d0410982c26fa378b730b3"
+        },
+        "actions": [{
+            "id": "INVOKE_FUNCTION___ad41a5f20b4b404ab8a5f9e75801c22d",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "getToken",
+            "display": "getToken",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

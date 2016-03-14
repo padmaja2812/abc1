@@ -1,0 +1,23 @@
+{
+    "AS_Button_b68261d0194848e98451a149af24c792": {
+        "id": "AS_Button_b68261d0194848e98451a149af24c792",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmGetSession",
+            "type": "forms",
+            "platform": "",
+            "KUID": "a8d1750abf654812a52d24065cd324c5"
+        },
+        "actions": [{
+            "id": "ADD_SNIPPET__36fdb36a540241eca16cea2e5146235a",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "frmGetSession.flexSelectSpeaker.setVisibility(false);",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

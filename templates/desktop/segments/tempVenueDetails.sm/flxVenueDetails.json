@@ -1,0 +1,51 @@
+{
+    "DNDConfig": null,
+    "_height_": {
+        "type": "string",
+        "value": "20%"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 6,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_skin_": "s094ed957b1341eb9247fec7d770f719",
+    "allboxes": [],
+    "autogrowmode": 0,
+    "canUpdateUI": true,
+    "children": [
+        "lblVenueid",
+        "line1",
+        "lbladdressid",
+        "line2",
+        "lblVenueName",
+        "line3",
+        "lblAddressName"
+    ],
+    "clipbounds": true,
+    "containerId": true,
+    "containerweight": 100,
+    "enablescrolling": true,
+    "id": "flxVenueDetails",
+    "info": null,
+    "isTemplate": true,
+    "isvisible": true,
+    "kuid": "30e15a3104d344e2a8fe3a7eacd62e89",
+    "layouttype": 2,
+    "name": "kony.ui.FlexContainer",
+    "parent": "tempVenueDetails",
+    "pf": "tempVenueDetails",
+    "snapgridsize": 10,
+    "snaptogrid": true,
+    "wType": "FlexContainer",
+    "widgetalignment": 1
+}

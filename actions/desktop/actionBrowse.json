@@ -1,0 +1,26 @@
+{
+    "AS_Button_1751ab9323c8422bafa0edfa944c62dd": {
+        "id": "AS_Button_1751ab9323c8422bafa0edfa944c62dd",
+        "type": "ACTION_SEQUENCE",
+        "name": "actionBrowse",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmAddUpdateUpload",
+            "type": "forms",
+            "platform": "",
+            "KUID": "361dafc6bc8f4d9abf57aa66a58d8541"
+        },
+        "actions": [{
+            "id": "INVOKE_FUNCTION___31d53e76374542f88b2a1f3b1d516ed4",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "ClickBrowse",
+            "display": "ClickBrowse",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "AS_Button_9f25e16164a24912bafea854ad4d5ce8": {
+        "id": "AS_Button_9f25e16164a24912bafea854ad4d5ce8",
+        "type": "ACTION_SEQUENCE",
+        "name": "VenueHallsShoeAction",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmVenue",
+            "type": "forms",
+            "platform": "",
+            "KUID": "92c65f70fa9e4c568976af253facded0"
+        },
+        "actions": [{
+            "id": "NAVIGATE_TO_FORM___cbeb9baab1464a5f853da02d5a7c353e",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "frmFloorMaps",
+            "formKUID": "5cfcf0a369d840d5821bc10768cf69c9",
+            "mappings": {},
+            "mappingsOrder": [],
+            "parentId": "",
+            "callbackType": null,
+            "enableMappingEditor": true
+        }]
+    }
+}

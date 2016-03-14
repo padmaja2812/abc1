@@ -1,0 +1,51 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "7%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "25%"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s867713527db4162aa0a3d75017812e8",
+    "_text_": "Add Resources",
+    "_top_": {
+        "type": "string",
+        "value": "180%"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "15%"
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 5,
+    "displaytext": true,
+    "focusskin": "s1f64221e8f64ca992c0912f06ca01ea",
+    "id": "btnAddResource",
+    "ide_onClick": "AS_Button_51c76dd032114fc597609569f72df5d5",
+    "info": null,
+    "isvisible": true,
+    "kuid": "c306c7cadc0d45509113f88e3357e05f",
+    "name": "kony.ui.Button",
+    "onclick": "AS_Button_51c76dd032114fc597609569f72df5d5",
+    "parent": "frmGetSession",
+    "pf": "frmGetSession",
+    "wType": "Button",
+    "zindex": 1
+}

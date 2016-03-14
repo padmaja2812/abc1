@@ -1,0 +1,51 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "6.38%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "29.00%"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "sfef0997d84e417088a16823cf8e37f6",
+    "_text_": "Add",
+    "_top_": {
+        "type": "string",
+        "value": "87.78%"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "17.13%"
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 5,
+    "displaytext": true,
+    "focusskin": "s571904a9e5543038d39a5a4dc35389f",
+    "id": "btnAdd",
+    "ide_onClick": "AS_Button_841ea3568e634117982bbbcc19924723",
+    "info": null,
+    "isvisible": true,
+    "kuid": "9b81937e6f3a4de1b79aac15e5cfe3dd",
+    "name": "kony.ui.Button",
+    "onclick": "AS_Button_841ea3568e634117982bbbcc19924723",
+    "parent": "flxComplete",
+    "pf": "frmAddNewFieldsSpeaker",
+    "wType": "Button",
+    "zindex": 1
+}

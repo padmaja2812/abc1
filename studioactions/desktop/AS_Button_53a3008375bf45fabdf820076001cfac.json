@@ -1,0 +1,20 @@
+{
+    "AS_Button_53a3008375bf45fabdf820076001cfac": {
+        "id": "AS_Button_53a3008375bf45fabdf820076001cfac",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "collection",
+            "name": "context"
+        }],
+        "contextObj": {
+            "name": "selectVenue",
+            "type": "templates",
+            "platform": null,
+            "KUID": "48742d5a0d564e97bd32820407e6f508"
+        },
+        "actions": []
+    }
+}

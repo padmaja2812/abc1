@@ -1,0 +1,51 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "50dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "1064dp"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s68c1d081c014800bb346f99ee040de8",
+    "_text_": "Address......",
+    "_top_": {
+        "type": "string",
+        "value": "509dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "260dp"
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 5,
+    "displaytext": true,
+    "focusskin": "s1e627f34faa43168597116fc22e2111",
+    "id": "btnAddress",
+    "ide_onClick": "AS_Button_93d3c214f5134f09a5eb6d4bcae9b1a4",
+    "info": null,
+    "isvisible": true,
+    "kuid": "091e760036344c5b87a2d3b61139ad12",
+    "name": "kony.ui.Button",
+    "onclick": "AS_Button_93d3c214f5134f09a5eb6d4bcae9b1a4",
+    "parent": "flxComplete",
+    "pf": "frmAddNewFieldsSpeaker",
+    "wType": "Button",
+    "zindex": 1
+}

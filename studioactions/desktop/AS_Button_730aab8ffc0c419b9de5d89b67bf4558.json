@@ -1,0 +1,23 @@
+{
+    "AS_Button_730aab8ffc0c419b9de5d89b67bf4558": {
+        "id": "AS_Button_730aab8ffc0c419b9de5d89b67bf4558",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmGetSession",
+            "type": "forms",
+            "platform": "",
+            "KUID": "a8d1750abf654812a52d24065cd324c5"
+        },
+        "actions": [{
+            "id": "ADD_SNIPPET__421ba0bbba094b8eb94a53573f4c423b",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "frmGetSession.flexSelectResource.setVisibility(false);",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

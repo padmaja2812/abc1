@@ -1,0 +1,26 @@
+{
+    "AS_Button_9ff56cde267a4dab941fb8e153b7eaa3": {
+        "id": "AS_Button_9ff56cde267a4dab941fb8e153b7eaa3",
+        "type": "ACTION_SEQUENCE",
+        "name": "actionAddVenue",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmAddUpdateVenue",
+            "type": "forms",
+            "platform": "",
+            "KUID": "ae7493a83afc4540bf40203fe4593905"
+        },
+        "actions": [{
+            "id": "INVOKE_FUNCTION___34797fe0c4804ca8a248dc100c7dec1a",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "addVenue",
+            "display": "addVenue",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

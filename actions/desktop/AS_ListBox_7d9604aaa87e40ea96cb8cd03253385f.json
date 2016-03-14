@@ -1,0 +1,25 @@
+{
+    "AS_ListBox_7d9604aaa87e40ea96cb8cd03253385f": {
+        "id": "AS_ListBox_7d9604aaa87e40ea96cb8cd03253385f",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmContactUsFrontEnd",
+            "type": "forms",
+            "platform": "",
+            "KUID": "cb4f011c17c5473c870822047bca3675"
+        },
+        "actions": [{
+            "id": "INVOKE_FUNCTION___e0867e3cbea84186a5d2d6e1c2387209",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "onSelectlistboxEventName",
+            "display": "onSelectlistboxEventName",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

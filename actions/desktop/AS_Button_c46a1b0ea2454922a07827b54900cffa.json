@@ -1,0 +1,26 @@
+{
+    "AS_Button_c46a1b0ea2454922a07827b54900cffa": {
+        "id": "AS_Button_c46a1b0ea2454922a07827b54900cffa",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "collection",
+            "name": "context"
+        }],
+        "contextObj": {
+            "name": "selectVenue",
+            "type": "templates",
+            "platform": null,
+            "KUID": "48742d5a0d564e97bd32820407e6f508"
+        },
+        "actions": [{
+            "id": "ADD_SNIPPET__4ebdb8f1a8d54e48b7b4a7a7f2752128",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "frmUpdateAndAddEvent.selectVenue.btnUncheck.isVisible = false;\nfrmUpdateAndAddEvent.selectVenue.btnCheck.isVisible = true;\n",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

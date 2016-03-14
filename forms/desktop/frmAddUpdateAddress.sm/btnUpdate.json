@@ -1,0 +1,51 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "5%"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s867713527db4162aa0a3d75017812e8",
+    "_text_": "Update",
+    "_top_": {
+        "type": "string",
+        "value": "90%"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "15%"
+    },
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "80%"
+    },
+    "containerweight": 100,
+    "contentalignment": 5,
+    "displaytext": true,
+    "focusskin": "s1e627f34faa43168597116fc22e2111",
+    "id": "btnUpdate",
+    "ide_onClick": "AS_Button_e3bc5666f04941419a87981c7ba80e1b",
+    "info": null,
+    "isvisible": false,
+    "kuid": "a909453d6c0e48fb80507de37006505d",
+    "name": "kony.ui.Button",
+    "onclick": "AS_Button_e3bc5666f04941419a87981c7ba80e1b",
+    "parent": "frmAddUpdateAddress",
+    "pf": "frmAddUpdateAddress",
+    "wType": "Button",
+    "zindex": 1
+}

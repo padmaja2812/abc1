@@ -1,0 +1,55 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "5%"
+    },
+    "_left_": {
+        "type": "number",
+        "value": "892"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s867713527db4162aa0a3d75017812e8",
+    "_text_": "Venue Halls",
+    "_top_": {
+        "type": "string",
+        "value": "84%"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "15%"
+    },
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "90%"
+    },
+    "containerweight": 100,
+    "contentalignment": 5,
+    "displaytext": true,
+    "focusskin": "s1e627f34faa43168597116fc22e2111",
+    "id": "btnVenueHalls",
+    "ide_onClick": "AS_Button_9f25e16164a24912bafea854ad4d5ce8",
+    "info": null,
+    "isvisible": true,
+    "kuid": "a8cb9a00b4cd45b4bf8aa0d94ad91554",
+    "name": "kony.ui.Button",
+    "onclick": "AS_Button_9f25e16164a24912bafea854ad4d5ce8",
+    "parent": "frmVenue",
+    "pf": "frmVenue",
+    "wType": "Button",
+    "zindex": 1
+}

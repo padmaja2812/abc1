@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="lib" path="C:/KonyStudio7/Kony_Studio/configuration/org.eclipse.osgi/bundles/455/1/.cp/libraries/middleware-system.jar"/>
+	<classpathentry kind="lib" path="C:/KonyStudio7/Kony_Studio/configuration/org.eclipse.osgi/bundles/485/1/.cp/lib/log4j-1.2.14.jar"/>
+	<classpathentry kind="lib" path="C:/Users/KH1964/Downloads/com.mysql.jdbc_5.1.5.jar/com.mysql.jdbc_5.1.5.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

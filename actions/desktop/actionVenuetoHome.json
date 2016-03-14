@@ -1,0 +1,24 @@
+{
+    "AS_Button_1222343ca0bd4b68ab9cbddb9d4132b5": {
+        "id": "AS_Button_1222343ca0bd4b68ab9cbddb9d4132b5",
+        "type": "ACTION_SEQUENCE",
+        "name": "actionVenuetoHome",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmVenue",
+            "type": "forms",
+            "platform": "",
+            "KUID": "92c65f70fa9e4c568976af253facded0"
+        },
+        "actions": [{
+            "id": "ADD_SNIPPET__f9d7777d8da342979c7e25bea8ce1615",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "frmHome.show();",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

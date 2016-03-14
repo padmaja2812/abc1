@@ -1,0 +1,25 @@
+{
+    "AS_Button_540707520ef047d6982e80e4bbae2476": {
+        "id": "AS_Button_540707520ef047d6982e80e4bbae2476",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmContactUsFrontEnd",
+            "type": "forms",
+            "platform": "",
+            "KUID": "cb4f011c17c5473c870822047bca3675"
+        },
+        "actions": [{
+            "id": "INVOKE_FUNCTION___80537d5bd225470e9efb6fdceecdaf72",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "getAddressForVenue",
+            "display": "getAddressForVenue",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

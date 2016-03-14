@@ -1,0 +1,29 @@
+{
+    "AS_Segment_7009eb86898c4f8c861285613f624586": {
+        "id": "AS_Segment_7009eb86898c4f8c861285613f624586",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "number",
+            "name": "sectionNumber"
+        }, {
+            "datatype": "number",
+            "name": "rowNumber"
+        }],
+        "contextObj": {
+            "name": "frmSpeakerDesktop",
+            "type": "forms",
+            "platform": "",
+            "KUID": "de4ef62556304a76adb9fb56c8e0b80f"
+        },
+        "actions": [{
+            "id": "ADD_SNIPPET__be7f2b927ffb47379575e003b51e5566",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "updateSpeakerHelper();",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

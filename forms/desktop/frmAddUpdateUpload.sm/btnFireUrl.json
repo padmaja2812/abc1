@@ -1,0 +1,49 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "5%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "70%"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s867713527db4162aa0a3d75017812e8",
+    "_text_": "Select",
+    "_top_": {
+        "type": "string",
+        "value": "10%"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "10%"
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 5,
+    "displaytext": true,
+    "focusskin": "s1e627f34faa43168597116fc22e2111",
+    "id": "btnFireUrl",
+    "info": null,
+    "isvisible": true,
+    "kuid": "96cda019b2c14455a2275761321bf1a1",
+    "name": "kony.ui.Button",
+    "parent": "frmAddUpdateUpload",
+    "pf": "frmAddUpdateUpload",
+    "wType": "Button",
+    "zindex": 1
+}

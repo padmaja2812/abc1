@@ -1,0 +1,28 @@
+{
+    "AS_Button_5a00e7a8249447c082c97d7de85d3edc": {
+        "id": "AS_Button_5a00e7a8249447c082c97d7de85d3edc",
+        "type": "ACTION_SEQUENCE",
+        "name": "btnProducts",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmHome",
+            "type": "forms",
+            "platform": "",
+            "KUID": "02b526b03d634e6d87abc62d59722cc4"
+        },
+        "actions": [{
+            "id": "NAVIGATE_TO_FORM___35ae51e75848425591b4eb4c2c7dbb50",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "frmProductsList",
+            "formKUID": "675f802cc19c4430973e0e13d04eeebb",
+            "mappings": {},
+            "mappingsOrder": [],
+            "parentId": "",
+            "callbackType": null,
+            "enableMappingEditor": true
+        }]
+    }
+}

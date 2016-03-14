@@ -1,0 +1,52 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "15%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "9%"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s867713527db4162aa0a3d75017812e8",
+    "_text_": "Speakers",
+    "_top_": {
+        "type": "string",
+        "value": "75%"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "20%"
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 5,
+    "disabledSkins": {
+        "focusSkin": "s3f7a7f7f28647948a5e0e66b8c4fb43"
+    },
+    "displaytext": true,
+    "id": "btnSpeakers",
+    "ide_onClick": "AS_Button_1b0d3e7aa49747f488b186f54a23600c",
+    "info": null,
+    "isvisible": true,
+    "kuid": "5233c5ad42364a7d9441e821f47065ab",
+    "name": "kony.ui.Button",
+    "onclick": "AS_Button_1b0d3e7aa49747f488b186f54a23600c",
+    "parent": "frmHome",
+    "pf": "frmHome",
+    "wType": "Button"
+}

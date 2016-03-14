@@ -1,0 +1,51 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "5%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "50%"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s867713527db4162aa0a3d75017812e8",
+    "_text_": "Select Image",
+    "_top_": {
+        "type": "string",
+        "value": "17%"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "20%"
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 5,
+    "displaytext": true,
+    "focusskin": "s1e627f34faa43168597116fc22e2111",
+    "id": "btnSelectHall",
+    "ide_onClick": "AS_Button_d0a341c60290477099770110123e5698",
+    "info": null,
+    "isvisible": true,
+    "kuid": "2eab21381fe44a44acbac225f12b4ef7",
+    "name": "kony.ui.Button",
+    "onclick": "AS_Button_d0a341c60290477099770110123e5698",
+    "parent": "frmAddUpdateFloorPlans",
+    "pf": "frmAddUpdateFloorPlans",
+    "wType": "Button",
+    "zindex": 1
+}

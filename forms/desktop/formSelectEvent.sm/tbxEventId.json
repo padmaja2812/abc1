@@ -1,0 +1,59 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizTextBox2",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "7%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "45%"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        3,
+        0,
+        0,
+        0
+    ],
+    "_placeholder_": "",
+    "_skin_": "s0f67c4e881d436b82ffbd3ad33707ce",
+    "_text_": "",
+    "_top_": {
+        "type": "string",
+        "value": "15%"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "25%"
+    },
+    "autocapitalize": "none",
+    "autocomplete": false,
+    "autocorrect": false,
+    "autofilter": false,
+    "canUpdateUI": true,
+    "containerheight": "",
+    "containerheightmode": 1,
+    "containerweight": 100,
+    "contentalignment": 4,
+    "id": "tbxEventId",
+    "info": null,
+    "isvisible": true,
+    "keyboardtype": "A",
+    "kuid": "946a67060f924075808f1f418b936ac0",
+    "mode": "A",
+    "name": "kony.ui.TextBox2",
+    "parent": "formSelectEvent",
+    "pf": "formSelectEvent",
+    "securetextentry": false,
+    "textinputmode": "A",
+    "viewtype": "default",
+    "wType": "TextField",
+    "zindex": 1
+}

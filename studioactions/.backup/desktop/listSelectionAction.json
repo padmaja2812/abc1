@@ -1,0 +1,18 @@
+{
+    "AS_ListBox_e80df4701ff5446caafe7ff67b210c37": {
+        "id": "AS_ListBox_e80df4701ff5446caafe7ff67b210c37",
+        "type": "ACTION_SEQUENCE",
+        "name": "listSelectionAction",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmAddUpdateVenue",
+            "type": "forms",
+            "platform": "",
+            "KUID": "ae7493a83afc4540bf40203fe4593905"
+        },
+        "actions": []
+    }
+}

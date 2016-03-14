@@ -1,0 +1,24 @@
+{
+    "AS_Button_80c6c16615c6482e877b51b7d5f49ffb": {
+        "id": "AS_Button_80c6c16615c6482e877b51b7d5f49ffb",
+        "type": "ACTION_SEQUENCE",
+        "name": "actionAddVenueBtn",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmVenue",
+            "type": "forms",
+            "platform": "",
+            "KUID": "ea37c2a106794788bebef7737e7749c6"
+        },
+        "actions": [{
+            "id": "ADD_SNIPPET__9a2fab9fb9b04db3a4d2178303af9340",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "frmAddUpdateVenue.destroy();\nfrmAddUpdateVenue.show();",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

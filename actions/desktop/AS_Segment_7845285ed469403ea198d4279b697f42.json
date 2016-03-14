@@ -1,0 +1,29 @@
+{
+    "AS_Segment_7845285ed469403ea198d4279b697f42": {
+        "id": "AS_Segment_7845285ed469403ea198d4279b697f42",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "number",
+            "name": "sectionNumber"
+        }, {
+            "datatype": "number",
+            "name": "rowNumber"
+        }],
+        "contextObj": {
+            "name": "frmAddNewFieldsSpeaker",
+            "type": "forms",
+            "platform": "",
+            "KUID": "f319e49fab004fdea7fdb0d653d49fb1"
+        },
+        "actions": [{
+            "id": "ADD_SNIPPET__3571188c841347baa448fac4cd832324",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "populateAddressDetails();",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

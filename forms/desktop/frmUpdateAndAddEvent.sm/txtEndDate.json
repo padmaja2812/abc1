@@ -1,0 +1,59 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizTextBox2",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "5%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "50%"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        3,
+        0,
+        0,
+        0
+    ],
+    "_placeholder_": "2016-02-18",
+    "_skin_": "s5c74d7076dd4c62bce4789387faaf98",
+    "_text_": "",
+    "_top_": {
+        "type": "string",
+        "value": "22%"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "15%"
+    },
+    "autocapitalize": "none",
+    "autocomplete": false,
+    "autocorrect": false,
+    "autofilter": false,
+    "canUpdateUI": true,
+    "containerheight": "",
+    "containerheightmode": 1,
+    "containerweight": 100,
+    "contentalignment": 4,
+    "id": "txtEndDate",
+    "info": null,
+    "isvisible": true,
+    "keyboardtype": "A",
+    "kuid": "22e8282c27984acb9b16efb5d256344e",
+    "mode": "A",
+    "name": "kony.ui.TextBox2",
+    "parent": "flxAddUpdateEvent",
+    "pf": "frmUpdateAndAddEvent",
+    "securetextentry": false,
+    "textinputmode": "A",
+    "viewtype": "default",
+    "wType": "TextField",
+    "zindex": 1
+}

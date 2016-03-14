@@ -1,0 +1,19 @@
+{
+    "AS_Button_18e94cfb368a4f89b4cc29c79e4b23f0": {
+        "id": "AS_Button_18e94cfb368a4f89b4cc29c79e4b23f0",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "actions": [{
+            "id": "INVOKE_FUNCTION___fc73227e87de46498161e0577536b399",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "ClickToBrowse",
+            "display": "ClickToBrowse",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

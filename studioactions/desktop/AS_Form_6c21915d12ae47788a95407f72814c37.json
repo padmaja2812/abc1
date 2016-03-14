@@ -1,0 +1,25 @@
+{
+    "AS_Form_6c21915d12ae47788a95407f72814c37": {
+        "id": "AS_Form_6c21915d12ae47788a95407f72814c37",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "sendCustomNotifications",
+            "type": "forms",
+            "platform": "",
+            "KUID": "11ce814e76d0410982c26fa378b730b3"
+        },
+        "actions": [{
+            "id": "INVOKE_FUNCTION___1b188f8b32e54d329944ae991733ca0c",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "get1Events",
+            "display": "get1Events",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

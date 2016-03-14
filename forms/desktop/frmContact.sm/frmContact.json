@@ -1,0 +1,67 @@
+{
+    "@class": "com.kony.gen.viz.model.container.KVizScrollFlexForm",
+    "DNDConfig": null,
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 1,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_skin_": "s9433e6c61e64a3e95f6ea696bd170f6",
+    "_title_": null,
+    "addWidgetsdone": false,
+    "allboxes": [],
+    "canUpdateUI": true,
+    "canvasWidth": 1400,
+    "children": [
+        "segdetails",
+        "btnGoHme"
+    ],
+    "containerweight": 100,
+    "currentLocale": null,
+    "desktopweb": {
+        "needAppMenu": false
+    },
+    "device": "desktopweb",
+    "displayorientation": 1,
+    "enabledforidletimeout": false,
+    "id": "frmContact",
+    "info": null,
+    "initdone": false,
+    "inputaccessoryviewtype": 4,
+    "ipad": {
+        "psp": {
+            "inputAccessoryViewType": 4
+        }
+    },
+    "iphone": {
+        "psp": {
+            "inputAccessoryViewType": 4
+        }
+    },
+    "isvisible": true,
+    "kuid": "c618470b3aec44be8509edf2b1f6deb7",
+    "layouttype": 2,
+    "name": "kony.ui.Form2",
+    "needappmenu": true,
+    "paddinginpixel": false,
+    "platform": "desktopweb",
+    "prevDevice": "desktopweb",
+    "prevPlatform": "desktopweb",
+    "retainscrollposition": false,
+    "shellCSS": "desktop",
+    "snapgridsize": 10,
+    "snaptogrid": true,
+    "titleBarSkin": "s01a3c761ed44dcab0d6537d1b55b621",
+    "titlebar": true,
+    "type": 3,
+    "wType": "Form"
+}

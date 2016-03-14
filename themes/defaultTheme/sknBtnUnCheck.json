@@ -1,0 +1,358 @@
+{
+  "android": {
+    "background_image": "unslectedradio1.png",
+    "bg_type": "image",
+    "isForked": true,
+    "text_shadow": {
+      "br": 0,
+      "color": "000000ff",
+      "x": 0,
+      "y": -1
+    }
+  },
+  "background_color": "56a9ddff",
+  "bg_type": "one",
+  "border_color": "ffffffff",
+  "border_style": "plain",
+  "border_type": 0,
+  "border_width": 0,
+  "desktopweb": {
+    "backgroundSize": true,
+    "background_image": "unslectedradio1.png",
+    "bg_type": "image",
+    "border_type": 0,
+    "bottom_left_border_color": "000000ff",
+    "bottom_left_border_style": "plain",
+    "bottom_left_border_width": "1",
+    "bottom_right_border_color": "050505ff",
+    "bottom_right_border_style": "plain",
+    "bottom_right_border_width": "1",
+    "isForked": true,
+    "repeatImageHorizontally": false,
+    "repeatImageVertically": false,
+    "shadow": {
+      "br": 2,
+      "color": "000000ff",
+      "inner": false,
+      "nm": 0,
+      "x": 0,
+      "y": 2
+    },
+    "text_shadow": {
+      "br": 0,
+      "color": "000000ff",
+      "x": 0,
+      "y": -1
+    },
+    "top_left_border_color": "0f0f0fff",
+    "top_left_border_style": "plain",
+    "top_left_border_width": "1",
+    "top_right_border_color": "0a0a0aff",
+    "top_right_border_style": "plain",
+    "top_right_border_width": "1"
+  },
+  "font_color": "ffffffff",
+  "font_name": "Helvetica",
+  "font_size": 146,
+  "font_style": "normal",
+  "font_weight": "normal",
+  "ipad": {
+    "background_image": "unslectedradio1.png",
+    "bg_type": "image",
+    "isForked": true,
+    "text_shadow": {
+      "br": 0,
+      "color": "000000ff",
+      "x": 0,
+      "y": -1
+    }
+  },
+  "iphone": {
+    "background_image": "unslectedradio1.png",
+    "bg_type": "image",
+    "isForked": true,
+    "text_shadow": {
+      "br": 0,
+      "color": "000000ff",
+      "x": 0,
+      "y": -1
+    }
+  },
+  "isDefaultSkin": false,
+  "kiosk": {
+    "background_image": "unslectedradio1.png",
+    "bg_type": "image",
+    "isForked": true
+  },
+  "kuid": "sd8f1d2988f143b39d700cbccdbbc4d4",
+  "spaan": {
+    "backgroundSize": true,
+    "background_image": "unslectedradio1.png",
+    "bg_type": "image",
+    "border_type": 0,
+    "bottom_left_border_color": "000000ff",
+    "bottom_left_border_style": "plain",
+    "bottom_left_border_width": "1",
+    "bottom_right_border_color": "050505ff",
+    "bottom_right_border_style": "plain",
+    "bottom_right_border_width": "1",
+    "isForked": true,
+    "repeatImageHorizontally": false,
+    "repeatImageVertically": false,
+    "shadow": {
+      "br": 2,
+      "color": "000000ff",
+      "inner": false,
+      "nm": 0,
+      "x": 0,
+      "y": 2
+    },
+    "text_shadow": {
+      "br": 0,
+      "color": "000000ff",
+      "x": 0,
+      "y": -1
+    },
+    "top_left_border_color": "0f0f0fff",
+    "top_left_border_style": "plain",
+    "top_left_border_width": "1",
+    "top_right_border_color": "0a0a0aff",
+    "top_right_border_style": "plain",
+    "top_right_border_width": "1"
+  },
+  "spaandroidtablet": {
+    "backgroundSize": true,
+    "background_image": "unslectedradio1.png",
+    "bg_type": "image",
+    "border_type": 0,
+    "bottom_left_border_color": "000000ff",
+    "bottom_left_border_style": "plain",
+    "bottom_left_border_width": "1",
+    "bottom_right_border_color": "050505ff",
+    "bottom_right_border_style": "plain",
+    "bottom_right_border_width": "1",
+    "isForked": true,
+    "repeatImageHorizontally": false,
+    "repeatImageVertically": false,
+    "shadow": {
+      "br": 2,
+      "color": "000000ff",
+      "inner": false,
+      "nm": 0,
+      "x": 0,
+      "y": 2
+    },
+    "text_shadow": {
+      "br": 0,
+      "color": "000000ff",
+      "x": 0,
+      "y": -1
+    },
+    "top_left_border_color": "0f0f0fff",
+    "top_left_border_style": "plain",
+    "top_left_border_width": "1",
+    "top_right_border_color": "0a0a0aff",
+    "top_right_border_style": "plain",
+    "top_right_border_width": "1"
+  },
+  "spabb": {
+    "backgroundSize": true,
+    "background_image": "unslectedradio1.png",
+    "bg_type": "image",
+    "border_type": 0,
+    "bottom_left_border_color": "000000ff",
+    "bottom_left_border_style": "plain",
+    "bottom_left_border_width": "1",
+    "bottom_right_border_color": "050505ff",
+    "bottom_right_border_style": "plain",
+    "bottom_right_border_width": "1",
+    "isForked": true,
+    "repeatImageHorizontally": false,
+    "repeatImageVertically": false,
+    "shadow": {
+      "br": 2,
+      "color": "000000ff",
+      "inner": false,
+      "nm": 0,
+      "x": 0,
+      "y": 2
+    },
+    "text_shadow": {
+      "br": 0,
+      "color": "000000ff",
+      "x": 0,
+      "y": -1
+    },
+    "top_left_border_color": "0f0f0fff",
+    "top_left_border_style": "plain",
+    "top_left_border_width": "1",
+    "top_right_border_color": "0a0a0aff",
+    "top_right_border_style": "plain",
+    "top_right_border_width": "1"
+  },
+  "spaip": {
+    "backgroundSize": true,
+    "background_image": "unslectedradio1.png",
+    "bg_type": "image",
+    "border_type": 0,
+    "bottom_left_border_color": "000000ff",
+    "bottom_left_border_style": "plain",
+    "bottom_left_border_width": "1",
+    "bottom_right_border_color": "050505ff",
+    "bottom_right_border_style": "plain",
+    "bottom_right_border_width": "1",
+    "isForked": true,
+    "repeatImageHorizontally": false,
+    "repeatImageVertically": false,
+    "shadow": {
+      "br": 2,
+      "color": "000000ff",
+      "inner": false,
+      "nm": 0,
+      "x": 0,
+      "y": 2
+    },
+    "text_shadow": {
+      "br": 0,
+      "color": "000000ff",
+      "x": 0,
+      "y": -1
+    },
+    "top_left_border_color": "0f0f0fff",
+    "top_left_border_style": "plain",
+    "top_left_border_width": "1",
+    "top_right_border_color": "0a0a0aff",
+    "top_right_border_style": "plain",
+    "top_right_border_width": "1"
+  },
+  "spaipad": {
+    "background_image": "unslectedradio1.png",
+    "bg_type": "image",
+    "border_type": 0,
+    "bottom_left_border_color": "000000ff",
+    "bottom_left_border_style": "plain",
+    "bottom_left_border_width": "1",
+    "bottom_right_border_color": "050505ff",
+    "bottom_right_border_style": "plain",
+    "bottom_right_border_width": "1",
+    "isForked": true,
+    "repeatImageHorizontally": false,
+    "repeatImageVertically": false,
+    "shadow": {
+      "br": 2,
+      "color": "000000ff",
+      "inner": false,
+      "nm": 0,
+      "x": 0,
+      "y": 2
+    },
+    "text_shadow": {
+      "br": 0,
+      "color": "000000ff",
+      "x": 0,
+      "y": -1
+    },
+    "top_left_border_color": "0f0f0fff",
+    "top_left_border_style": "plain",
+    "top_left_border_width": "1",
+    "top_right_border_color": "0a0a0aff",
+    "top_right_border_style": "plain",
+    "top_right_border_width": "1"
+  },
+  "spawindowstablet": {
+    "background_image": "unslectedradio1.png",
+    "bg_type": "image",
+    "border_type": 0,
+    "bottom_left_border_color": "000000ff",
+    "bottom_left_border_style": "plain",
+    "bottom_left_border_width": "1",
+    "bottom_right_border_color": "050505ff",
+    "bottom_right_border_style": "plain",
+    "bottom_right_border_width": "1",
+    "isForked": true,
+    "repeatImageHorizontally": false,
+    "repeatImageVertically": false,
+    "shadow": {
+      "br": 2,
+      "color": "000000ff",
+      "inner": false,
+      "nm": 0,
+      "x": 0,
+      "y": 2
+    },
+    "text_shadow": {
+      "br": 0,
+      "color": "000000ff",
+      "x": 0,
+      "y": -1
+    },
+    "top_left_border_color": "0f0f0fff",
+    "top_left_border_style": "plain",
+    "top_left_border_width": "1",
+    "top_right_border_color": "0a0a0aff",
+    "top_right_border_style": "plain",
+    "top_right_border_width": "1"
+  },
+  "spawinphone8": {
+    "backgroundSize": true,
+    "background_image": "unslectedradio1.png",
+    "bg_type": "image",
+    "border_type": 0,
+    "bottom_left_border_color": "000000ff",
+    "bottom_left_border_style": "plain",
+    "bottom_left_border_width": "1",
+    "bottom_right_border_color": "050505ff",
+    "bottom_right_border_style": "plain",
+    "bottom_right_border_width": "1",
+    "isForked": true,
+    "repeatImageHorizontally": false,
+    "repeatImageVertically": false,
+    "shadow": {
+      "br": 2,
+      "color": "000000ff",
+      "inner": false,
+      "nm": 0,
+      "x": 0,
+      "y": 2
+    },
+    "text_shadow": {
+      "br": 0,
+      "color": "000000ff",
+      "x": 0,
+      "y": -1
+    },
+    "top_left_border_color": "0f0f0fff",
+    "top_left_border_style": "plain",
+    "top_left_border_width": "1",
+    "top_right_border_color": "0a0a0aff",
+    "top_right_border_style": "plain",
+    "top_right_border_width": "1"
+  },
+  "tabrcandroid": {
+    "background_image": "unslectedradio1.png",
+    "bg_type": "image",
+    "isForked": true,
+    "text_shadow": {
+      "br": 0,
+      "color": "000000ff",
+      "x": 0,
+      "y": -1
+    }
+  },
+  "wType": "Button",
+  "watchos": {
+    "background_image": "unslectedradio1.png",
+    "bg_type": "image",
+    "isForked": true
+  },
+  "windows8": {
+    "background_image": "unslectedradio1.png",
+    "bg_type": "image",
+    "isForked": true
+  },
+  "winphone8": {
+    "background_image": "unslectedradio1.png",
+    "bg_type": "image",
+    "isForked": true
+  }
+}

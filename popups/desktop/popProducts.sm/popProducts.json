@@ -1,0 +1,55 @@
+{
+    "@class": "com.kony.gen.viz.model.container.KVizForm",
+    "DNDConfig": null,
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 1,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_skin_": "s9523e23b86e47efaefde54c46e584d4",
+    "_title_": null,
+    "addWidgetsdone": false,
+    "allboxes": [],
+    "canUpdateUI": true,
+    "children": [],
+    "containerweight": 80,
+    "currentLocale": null,
+    "desktopweb": {
+        "psp": {
+            "titleBarConfig": {
+                "closeIcon": "close.png",
+                "maxIcon": "max.png",
+                "minIcon": "min.png"
+            }
+        }
+    },
+    "device": "desktopweb",
+    "displayorientation": 3,
+    "enabledforidletimeout": false,
+    "id": "popProducts",
+    "info": null,
+    "initdone": false,
+    "inputaccessoryviewtype": 4,
+    "ismodal": false,
+    "isvisible": true,
+    "kuid": "9d153fb15be142c0a6eeee2278144480",
+    "name": "kony.ui.Popup",
+    "paddinginpixel": false,
+    "platform": "desktopweb",
+    "prevDevice": "desktopweb",
+    "prevPlatform": "desktopweb",
+    "retainscrollposition": false,
+    "shellCSS": "desktop",
+    "titlebar": true,
+    "transparencybehindthepopup": 100,
+    "wType": "Popup"
+}

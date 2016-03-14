@@ -1,0 +1,26 @@
+{
+    "AS_Button_e3bc5666f04941419a87981c7ba80e1b": {
+        "id": "AS_Button_e3bc5666f04941419a87981c7ba80e1b",
+        "type": "ACTION_SEQUENCE",
+        "name": "addressupdate",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmAddUpdateAddress",
+            "type": "forms",
+            "platform": "",
+            "KUID": "45670862f42f49d7b867428a4caf8847"
+        },
+        "actions": [{
+            "id": "INVOKE_FUNCTION___a3c112b5e94b458ea64422eae014ee13",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "updateAddress",
+            "display": "updateAddress",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

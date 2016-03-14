@@ -1,0 +1,16 @@
+{
+  "background_color": "ffffffff",
+  "bg_type": "one",
+  "border_color": "454545ff",
+  "border_style": "plain",
+  "border_type": 0,
+  "border_width": 1,
+  "font_color": "000000ff",
+  "font_name": "Helvetica",
+  "font_size": 100,
+  "font_style": "normal",
+  "font_weight": "normal",
+  "isDefaultSkin": false,
+  "kuid": "s0038c2683694d37bc1cf71b33307daf",
+  "wType": "ListBox"
+}

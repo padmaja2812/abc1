@@ -1,0 +1,51 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "38dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "88%"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s867713527db4162aa0a3d75017812e8",
+    "_text_": "Venue..",
+    "_top_": {
+        "type": "string",
+        "value": "27.50%"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100dp"
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 5,
+    "displaytext": true,
+    "focusskin": "s3f7a7f7f28647948a5e0e66b8c4fb43",
+    "id": "btnChooseVenue",
+    "ide_onClick": "AS_Button_19b353c79c904435b0d554f0d5a4b40e",
+    "info": null,
+    "isvisible": true,
+    "kuid": "03b79e8eee8c4518a7b4ef939ac40cdc",
+    "name": "kony.ui.Button",
+    "onclick": "AS_Button_19b353c79c904435b0d554f0d5a4b40e",
+    "parent": "flxAddUpdateEvent",
+    "pf": "frmUpdateAndAddEvent",
+    "wType": "Button",
+    "zindex": 1
+}

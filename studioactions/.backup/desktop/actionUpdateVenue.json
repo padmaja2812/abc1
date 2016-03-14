@@ -1,0 +1,17 @@
+{
+    "AS_Button_44e9ce5bf0354050b43704d0e9b9b704": {
+        "id": "AS_Button_44e9ce5bf0354050b43704d0e9b9b704",
+        "type": "ACTION_SEQUENCE",
+        "name": "actionUpdateVenue",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "actions": [{
+            "id": "ADD_SNIPPET_ide_onClick_4b480e368dd844a78b7ec1978ee2b23c",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "updateVenue();",
+            "callbackType": null
+        }]
+    }
+}

@@ -1,0 +1,51 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "4%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "37%"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "sf106597b0b24e84b6566dc6747cce1c",
+    "_text_": "submit",
+    "_top_": {
+        "type": "string",
+        "value": "58%"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "10%"
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 5,
+    "displaytext": true,
+    "focusskin": "s1e627f34faa43168597116fc22e2111",
+    "id": "btnSubmit",
+    "ide_onClick": "AS_Button_ec79a83d7f8c4a48a06ff00c22f25682",
+    "info": null,
+    "isvisible": true,
+    "kuid": "a492d5dcee74443792e5980d30d048fb",
+    "name": "kony.ui.Button",
+    "onclick": "AS_Button_ec79a83d7f8c4a48a06ff00c22f25682",
+    "parent": "frmSurevyQuestions",
+    "pf": "frmSurevyQuestions",
+    "wType": "Button",
+    "zindex": 1
+}

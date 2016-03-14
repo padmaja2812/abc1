@@ -1,0 +1,24 @@
+{
+    "AS_Button_8c9fbbbc191842c6be9ed5f83ecc911e": {
+        "id": "AS_Button_8c9fbbbc191842c6be9ed5f83ecc911e",
+        "type": "ACTION_SEQUENCE",
+        "name": "actionUpdateAddressBtn",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmAddUpdateAddress",
+            "type": "forms",
+            "platform": null,
+            "KUID": "45670862f42f49d7b867428a4caf8847"
+        },
+        "actions": [{
+            "id": "ADD_SNIPPET__d7c0b4b872f14383ac2aac20f49fed93",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "updateAddress();",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

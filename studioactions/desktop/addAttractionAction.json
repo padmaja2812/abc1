@@ -1,0 +1,26 @@
+{
+    "AS_Button_6ff58c00604d4790b8082ac946759135": {
+        "id": "AS_Button_6ff58c00604d4790b8082ac946759135",
+        "type": "ACTION_SEQUENCE",
+        "name": "addAttractionAction",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmAddAttractions",
+            "type": "forms",
+            "platform": "",
+            "KUID": "1ab0dcc0fd054cef849c68ae43bc9aa9"
+        },
+        "actions": [{
+            "id": "INVOKE_FUNCTION___65e0f89b264a48a3ae235dbc0de6d3ef",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "addAttractions",
+            "display": "addAttractions",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

@@ -1,0 +1,101 @@
+{
+    "@class": "com.kony.gen.viz.model.container.KVizScrollFlexForm",
+    "DNDConfig": null,
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 1,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_skin_": "sfa9c4720150497d9af7def6dd4487f2",
+    "_title_": null,
+    "addWidgetsdone": false,
+    "allboxes": [],
+    "canUpdateUI": true,
+    "canvasWidth": 1000,
+    "children": [
+        "lblHeading",
+        "lblBorder",
+        "lblSessionCnt",
+        "lblNote",
+        "lblSessionTitle",
+        "lblStart",
+        "lblEndTime",
+        "lblDate",
+        "lblTrackName",
+        "lblDesc",
+        "lblVenue",
+        "lblSpeakerList",
+        "lblResourceList",
+        "lblNotification",
+        "msgTitle",
+        "message",
+        "txtAreaDesc",
+        "txtAreaMsg",
+        "tbxTitle",
+        "tbxStart",
+        "tbxEnd",
+        "tbxTrackName",
+        "tbxNotificationTitle",
+        "speakerList",
+        "resourceList",
+        "addressline",
+        "btnAddSpeaker",
+        "btnAddResource",
+        "btnNext",
+        "btnSubmit",
+        "flexSelectSpeaker",
+        "breakCheckBox",
+        "dayListBox",
+        "cancelBtn",
+        "btnAddVenue",
+        "notifications1"
+    ],
+    "containerweight": 100,
+    "currentLocale": null,
+    "desktopweb": {
+        "needAppMenu": false
+    },
+    "device": "desktopweb",
+    "displayorientation": 1,
+    "enabledforidletimeout": false,
+    "id": "frmGetSession",
+    "info": null,
+    "initdone": false,
+    "inputaccessoryviewtype": 4,
+    "ipad": {
+        "psp": {
+            "inputAccessoryViewType": 4
+        }
+    },
+    "iphone": {
+        "psp": {
+            "inputAccessoryViewType": 4
+        }
+    },
+    "isvisible": true,
+    "kuid": "a8d1750abf654812a52d24065cd324c5",
+    "layouttype": 2,
+    "name": "kony.ui.Form2",
+    "needappmenu": true,
+    "paddinginpixel": false,
+    "platform": "desktopweb",
+    "prevDevice": "desktopweb",
+    "prevPlatform": "desktopweb",
+    "retainscrollposition": false,
+    "shellCSS": "desktop",
+    "snapgridsize": 10,
+    "snaptogrid": true,
+    "titleBarSkin": "s01a3c761ed44dcab0d6537d1b55b621",
+    "titlebar": true,
+    "type": 3,
+    "wType": "Form"
+}

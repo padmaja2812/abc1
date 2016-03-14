@@ -1,0 +1,24 @@
+{
+    "AS_Button_e0dc079f82034bea9a211a4b1f84675b": {
+        "id": "AS_Button_e0dc079f82034bea9a211a4b1f84675b",
+        "type": "ACTION_SEQUENCE",
+        "name": "uploadIconProduct",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmProductDetails",
+            "type": "forms",
+            "platform": "",
+            "KUID": "98e1e7b3b46c45e29a2c9540ab3af2bc"
+        },
+        "actions": [{
+            "id": "ADD_SNIPPET__fa771b30dca24ac1832feb2bb6cf34bb",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "ClickBrowse();",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

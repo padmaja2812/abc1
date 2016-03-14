@@ -1,0 +1,51 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "9%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "506dp"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s68c1d081c014800bb346f99ee040de8",
+    "_text_": "send",
+    "_top_": {
+        "type": "string",
+        "value": "87.33%"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "25%"
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 5,
+    "displaytext": true,
+    "focusskin": "s1e627f34faa43168597116fc22e2111",
+    "id": "btnSend",
+    "ide_onClick": "AS_Button_37a620eb115a443d878c7de10258e791",
+    "info": null,
+    "isvisible": true,
+    "kuid": "c7c4d11f9e2849e4baac1d89f5da0772",
+    "name": "kony.ui.Button",
+    "onclick": "AS_Button_37a620eb115a443d878c7de10258e791",
+    "parent": "flexMessage",
+    "pf": "sendCustomNotifications",
+    "wType": "Button",
+    "zindex": 1
+}

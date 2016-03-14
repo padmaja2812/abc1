@@ -1,0 +1,24 @@
+{
+    "AS_Segment_eb7342ac993c4a968bf15c7eee20e04e": {
+        "id": "AS_Segment_eb7342ac993c4a968bf15c7eee20e04e",
+        "type": "ACTION_SEQUENCE",
+        "name": "segUploadOnRowClick",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "number",
+            "name": "sectionNumber"
+        }, {
+            "datatype": "number",
+            "name": "rowNumber"
+        }],
+        "contextObj": {
+            "name": "frmFileUpload",
+            "type": "forms",
+            "platform": "",
+            "KUID": "8e9a52b182e74ae080c03d788514d2e9"
+        },
+        "actions": []
+    }
+}

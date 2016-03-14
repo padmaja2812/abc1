@@ -1,0 +1,23 @@
+{
+    "AS_Button_8da023f32d944cd48944bb809e8d48b8": {
+        "id": "AS_Button_8da023f32d944cd48944bb809e8d48b8",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "formSelectEvent",
+            "type": "forms",
+            "platform": "",
+            "KUID": "95029d1b375e4a7283d18bc7169cafb3"
+        },
+        "actions": [{
+            "id": "ADD_SNIPPET__a53feca0c9894ceca4316bdfe7adecc3",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "toViewSessions();",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

@@ -7,18 +7,28 @@ var flag=false;
 function createEvent(title,logo_id,banner_id,short_desc,long_desc,start_date,start_time,end_date,end_time,venue_id,rating_id,added_time,added_date,is_disabled,twitterCode){
   var integrationObj = kony.sdk.getCurrentInstance().getIntegrationService("fetchEvents");
   var operationName = "konyevents_event_create";
-  alert(twitterCode);
-  data= {"title": title,"logo_id": logo_id,"banner_id": banner_id,"short_desc": short_desc,"long_desc": long_desc,"start_date": start_date,"start_time":start_time,"end_date": end_date,"end_time":end_time,"venue_id": venue_id,"rating_id": rating_id,"added_time": added_time,"added_date": added_date,"is_disabled": is_disabled,"twitter_hash_code": twitterCode};
+
+  var rating_operationName = "konyevents_rating_create";
+  data= {"rating_average": 0.00,"no_of_votes": 0};
   headers= {};
  
-  integrationObj.invokeOperation(operationName, headers, data, operationSuccess, operationFailure);
+  integrationObj.invokeOperation(rating_operationName, headers, data, function(response){
+    rating_id = response.rating[0].rating_id;
+    kony.print("created rating id = "+rating_id);
+    data= {"title": title,"logo_id": logo_id,"banner_id": banner_id,"short_desc": short_desc,"long_desc": long_desc,"start_date": start_date,"start_time":start_time,"end_date": end_date,"end_time":end_time,"venue_id": venue_id,"rating_id": rating_id,"added_time": added_time,"added_date": added_date,"is_disabled": is_disabled,"twitter_hash_code": twitterCode};
+    integrationObj.invokeOperation(operationName, headers, data, operationSuccess, operationFailure);
+  }, function(error){
+    kony.print("failed to create a rating id");
+    kony.print(JSON.stringify(error));
+  });
+
 }
 
  
 
 function operationSuccess(response){
 // response is the JSON returned data
- // alert("Event Added");
+  alert("Event Added");
   kony.print("operationSuccess:start");
   kony.print(JSON.stringify(response));
   kony.print("operationSuccess:end");
@@ -26,7 +36,7 @@ function operationSuccess(response){
 
 function operationFailure(error){
 //error is the error object
-  //alert("Operation Failed");
+  alert("Failed to create the Event");
   kony.print("operationFailure:start");
   kony.print(JSON.stringify(error));
   kony.print("operationFailure:end");

@@ -18,7 +18,9 @@
             "type": "INVOKE_FUNCTION",
             "sequenceKUID": "addUploadHelper",
             "display": "addUploadHelper",
-            "inputparams": [],
+            "inputparams": [{
+                "name": "result"
+            }],
             "parentId": null,
             "callbackType": null
         }]

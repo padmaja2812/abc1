@@ -18,7 +18,15 @@
             "type": "INVOKE_FUNCTION",
             "sequenceKUID": "updatevenue_hall",
             "display": "updatevenue_hall",
-            "inputparams": [],
+            "inputparams": [{
+                "name": "venue_id"
+            }, {
+                "name": "hall_id"
+            }, {
+                "name": "hall_desc"
+            }, {
+                "name": "hall_name"
+            }],
             "parentId": null,
             "callbackType": null
         }]

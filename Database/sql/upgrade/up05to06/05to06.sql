@@ -47,3 +47,51 @@ VIEW `vw_event_details` AS
         LEFT JOIN `event_user_register` ON ((`event`.`event_id` = `event_user_register`.`event_id`)))
         LEFT JOIN `session_user_register` ON ((`event`.`event_id` = `session_user_register`.`event_id`)))
     GROUP BY `event`.`event_id`
+	
+	
+--------------
+--Added rating_id column from speaker table to the view
+--------------	
+CREATE 
+     OR REPLACE 
+VIEW `vw_speaker_address_details` AS
+    SELECT 
+        `s`.`speaker_id` AS `speaker_id`,
+        `s`.`speaker_name` AS `speaker_name`,
+        `s`.`speaker_address_id` AS `speaker_address_id`,
+        `s`.`speaker_dept` AS `speaker_dept`,
+        `s`.`speaker_job_title` AS `speaker_job_title`,
+        `s`.`speaker_details` AS `speaker_details`,
+        `s`.`speaker_fb_detail` AS `speaker_fb_detail`,
+        `s`.`speaker_twitter_detail` AS `speaker_twitter_detail`,
+        `s`.`speaker_google_plus_detail` AS `speaker_google_plus_detail`,
+        `s`.`speaker_linkedin_detail` AS `speaker_linkedin_detail`,
+        `s`.`rating_id` AS `speaker_rating_id`,
+        `ad`.`address_id` AS `ad_address_id`,
+        `ad`.`name` AS `ad_name`,
+        `ad`.`line_one` AS `ad_line_one`,
+        `ad`.`line_two` AS `ad_line_two`,
+        `ad`.`city` AS `ad_city`,
+        `ad`.`zip` AS `ad_zip`,
+        `ad`.`phone_one` AS `ad_phone_one`,
+        `ad`.`longitude` AS `ad_longitude`,
+        `ad`.`latitude` AS `ad_latitude`,
+        `ad`.`email` AS `ad_email`,
+        `ad`.`website` AS `ad_website`,
+        `u`.`upload_id` AS `upload_id`,
+        `u`.`blob_obj` AS `blob_obj`
+    FROM
+        ((`speaker` `s`
+        JOIN `address` `ad`)
+        JOIN `upload` `u`)
+    WHERE
+        ((`s`.`speaker_address_id` = `ad`.`address_id`)
+            AND (`s`.`upload_id` = `u`.`upload_id`));
+
+
+--------------
+--Default value of added_time is changed from null to current system timestamp
+--------------			
+ALTER TABLE `konyevents`.`rating_votes` 
+CHANGE COLUMN `added_time` `added_time` TIMESTAMP NULL DEFAULT CURRENT_TIMESTAMP ;
+

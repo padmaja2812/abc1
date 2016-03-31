@@ -95,3 +95,7 @@ VIEW `vw_speaker_address_details` AS
 ALTER TABLE `konyevents`.`rating_votes` 
 CHANGE COLUMN `added_time` `added_time` TIMESTAMP NULL DEFAULT CURRENT_TIMESTAMP ;
 
+
+ALTER TABLE `speaker` CHANGE `speaker_google+_detail` `speaker_google_plus_detail` VARCHAR(1024) CHARACTER SET latin1 COLLATE latin1_swedish_ci NOT NULL;
+
+ALTER TABLE `speaker`  ADD `rating_id` INT UNSIGNED NULL DEFAULT NULL,  ADD INDEX (`rating_id`) ;
